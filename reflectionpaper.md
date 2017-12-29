@@ -2,7 +2,7 @@
 ## Introduction
 The reflection paper is the last assignment of the quarter and offers you a chance to think through the process of writing, about the way in which the speakers have shaped your thinking about art and design this quarter. There is no one right answer, each person will have different responses. The important thing is that your reflection links the content of the presentations to yourself and the real world in some way.
 
-Please write a 500 words reflecting on the forum this quarter. what are the themes and ideas that you are taking with you into the next year? what stood out and changed the way you think?
+Please write a 750 words reflecting on the forum this quarter. what are the themes and ideas that you are taking with you into the next year? what stood out and changed the way you think?
 
 ## Reflective Writing
 Reflective tasks are challenging. Make sure you keep track of your thoughts, ideas, problems, and solutions regularly. Some lecturers will want evidence of your record-keeping. You will write a much better reflective assignment when you have your notes to work from rather than trying to brainstorm a whole lot of thoughts about what happened over a period of weeks.
