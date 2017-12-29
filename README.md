@@ -13,8 +13,8 @@ By the end of this course you should be able to:
 
 ## [Dates/Guests for Winter 2018](winter2018.md)
 ## ASSIGNMENTS, LABS AND PROJECTS
-### DISCUSSION ONLINE
-### REFLECTION PAPER
+### [DISCUSSION ONLINE](onlinediscussion.md)
+### [REFLECTION PAPER](reflectionpaper.md)
 
 ## REQUIRED TEXTBOOKS
 none
