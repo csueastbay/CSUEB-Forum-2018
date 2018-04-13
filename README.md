@@ -12,7 +12,7 @@ By the end of this course you should be able to:
 
 
 ## [Dates/Guests for Winter 2018](winter2018.md)
-## Dates/Guests for Spring 2018(spring2018.md)
+## [Dates/Guests for Spring 2018](spring2018.md)
 ## ASSIGNMENTS, LABS AND PROJECTS
 ### [DISCUSSION ONLINE](onlinediscussion.md)
 ### [REFLECTION PAPER](reflectionpaper.md)
